@@ -104,6 +104,10 @@ I'm an MBA graduate specialising in **Business Intelligence, Data Analytics and 
 
 ---
 
+<a href="https://github.com/mailmeasnikhil-del?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-Public%20Repositories-00D9FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore repositories"/>
+</a>
+
 ## `04` / GITHUB ANALYTICS
 
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmailmeasnikhil-del&query=%24.public_repos&label=PUBLIC%20REPOSITORIES&style=for-the-badge&color=00D9FF" alt="Public repository count"/>

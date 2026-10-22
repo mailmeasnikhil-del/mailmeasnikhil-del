@@ -143,12 +143,12 @@ I'm an MBA graduate specialising in **Business Intelligence, Data Analytics and 
 ## `06` / COMMIT ACTIVITY
 
 
+<h2 align="center">📈 My GitHub Activity</h2>
+
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=mailmeasnikhil-del&bg_color=050816&color=C9D1D9&line=00D9FF&point=FFFFFF&area=true&hide_border=true"
-    width="100%"
-    alt="GitHub commit activity graph"
-  />
+  <a href="https://github.com/mailmeasnikhil-del">
+    View my GitHub contribution calendar and activity
+  </a>
 </p>
 
 

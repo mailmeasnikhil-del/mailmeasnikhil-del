@@ -142,11 +142,15 @@ I'm an MBA graduate specialising in **Business Intelligence, Data Analytics and 
 
 ## `06` / COMMIT ACTIVITY
 
-<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mailmeasnikhil-del&bg_color=050816&color=C9D1D9&line=00D9FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Commit activity graph"/>
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mailmeasnikhil-del&bg_color=050816&color=C9D1D9&line=00D9FF&point=FFFFFF&area=true&hide_border=true"
+    width="100%"
+    alt="GitHub commit activity graph"
+  />
+</p>
 
-</div>
 
 ---
 

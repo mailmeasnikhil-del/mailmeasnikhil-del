@@ -29,6 +29,14 @@
 
 </div>
 
+<a href="https://github.com/mailmeasnikhil-del?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-Public%20Repositories-00D9FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore repositories"/>
+</a>
+
+<a href="https://github.com/mailmeasnikhil-del?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-Public%20Repositories-00D9FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore repositories"/>
+</a>
+
 ---
 
 ## `01` / ABOUT ME
@@ -103,10 +111,6 @@ I'm an MBA graduate specialising in **Business Intelligence, Data Analytics and 
 *These are project ideas, not claims of completed work. Replace the links above with individual repository links when your projects are published.*
 
 ---
-
-<a href="https://github.com/mailmeasnikhil-del?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore-Public%20Repositories-00D9FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore repositories"/>
-</a>
 
 ## `04` / GITHUB ANALYTICS
 
